@@ -1,1 +1,1 @@
-This is the implementation for the TKDE paper "Multi-view Attributed Graph Clustering" by Zhiping Lin, Zhao Kang, Lizong Zhang, Ling Tian.
+This is the implementation for the TKDE paper "Multi-view Attributed Graph Clustering" by Zhiping Lin, Zhao Kang, Lizong Zhang, Ling Tian. The implementation for single view can be found at https://github.com/sckangz/FGC
